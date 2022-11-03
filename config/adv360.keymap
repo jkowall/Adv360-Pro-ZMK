@@ -19,7 +19,6 @@
       };
     };
 
-/ {
     macros {
         close_program: close_program {
             label = "JK_close";
@@ -32,7 +31,6 @@
                 ;
         };
     };
-};
 
   keymap {
     compatible = "zmk,keymap";
