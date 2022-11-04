@@ -7,10 +7,6 @@ bindings
     , <&macro_tap &kp F4>
     , <&macro_release &kp LEFT_ALT>
     ;
-#
-#doesn't work
-#bindings = <&mt LEFT_ALT F4>;
-#
 };
 macro_quotes: macro_quotes{
 compatible = "zmk,behavior-macro";
